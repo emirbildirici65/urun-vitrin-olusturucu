@@ -1,7 +1,6 @@
 import gradio as gr
 from PIL import Image, ImageOps, ImageFilter
 import numpy as np
-import cv2
 from transformers import pipeline
 
 # Ücretsiz en iyi arka plan temizleme modeli
