@@ -1,8 +1,5 @@
 gradio
 pillow
-numpy
-opencv-python
-diffusers
 transformers
 torch
-accelerate
+torchvision
