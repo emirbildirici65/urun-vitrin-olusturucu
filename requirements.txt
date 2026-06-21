@@ -4,3 +4,4 @@ pillow
 transformers
 torch
 torchvision
+scikit-image
