@@ -1,0 +1,6 @@
+gradio==4.26.0
+pillow
+numpy
+transformers
+torch
+torchvision
